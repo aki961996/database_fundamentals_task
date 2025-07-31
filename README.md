@@ -41,6 +41,7 @@
    cd database_fundamentals_task
    
 #step by step -------->
+
     composer install
     
     cp .env.example .env
