@@ -1,0 +1,38 @@
+/* Sales Report Styles */
+.table-responsive {
+    overflow-x: auto;
+}
+
+.badge {
+    padding: 0.35em 0.65em;
+    font-size: 0.75em;
+    font-weight: 600;
+    letter-spacing: 0.05em;
+    border-radius: 0.25rem;
+}
+
+.pagination {
+    justify-content: center;
+}
+
+
+/* Query Performance Report Styles */
+code {
+    color: #d63384;
+    word-wrap: break-word;
+}
+
+pre {
+    white-space: pre-wrap;
+    word-wrap: break-word;
+    margin-bottom: 0;
+}
+
+.table-dark th {
+    background-color: #343a40;
+    color: white;
+}
+
+.list-group-item {
+    padding: 1rem 1.25rem;
+}
