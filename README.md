@@ -40,9 +40,13 @@
    git clone https://github.com/aki961996/database_fundamentals_task.git
    cd database_fundamentals_task
    
-#step by step
+#step by step -------->
     composer install
+    
     cp .env.example .env
+    
     php artisan key:generate
+    
     php artisan migrate --seed
+    
     php artisan serve
